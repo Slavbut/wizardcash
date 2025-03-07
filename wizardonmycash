@@ -1,5 +1,5 @@
 def wizardcash():
-  wizardcash = input("wizardcash?")
+  wizardcash = input("wizardcash? ")
   if wizardcash == "wizardcash":
     print("wizardcash!")
     exit()
