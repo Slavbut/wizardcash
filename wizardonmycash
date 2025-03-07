@@ -1,0 +1,9 @@
+def wizardcash():
+  wizardcash = input("wizardcash?")
+  if wizardcash == "wizardcash":
+    print("wizardcash!")
+    exit()
+  else:
+    print("wizardcash?")
+    wizardcash()
+wizardcash()
